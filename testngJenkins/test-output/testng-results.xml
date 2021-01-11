@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-14T11:53:02 GMT" name="Default suite" finished-at="2020-12-14T11:53:17 GMT" duration-ms="14784">
+    <groups>
+    </groups>
+    <test started-at="2020-12-14T11:53:02 GMT" name="Default test" finished-at="2020-12-14T11:53:17 GMT" duration-ms="14784">
+      <class name="testngJenkins.SubmitLoanApplication">
+        <test-method signature="navigateToWebsite()[pri:0, instance:testngJenkins.SubmitLoanApplication@1fb700ee]" started-at="2020-12-14T11:53:02 GMT" name="navigateToWebsite" finished-at="2020-12-14T11:53:17 GMT" duration-ms="14714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToWebsite -->
+      </class> <!-- testngJenkins.SubmitLoanApplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
